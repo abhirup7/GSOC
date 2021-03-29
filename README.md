@@ -10,3 +10,6 @@ Solution - easy1.R
 
 
 Output - SLOPE MODEL.pdf and LASSO MODEL.pdf
+
+
+Inference - For signma near 0 the SLOPE and Lasso models are similar however if sigma is big SLOPE model's beta don't go to 0 as quickly as Lasso model's beta.
